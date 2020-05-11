@@ -3,4 +3,4 @@ def badge_maker (name)
 end
 
 def badge_batch_creator (array)
-  .nu
+  nuarray.push 
