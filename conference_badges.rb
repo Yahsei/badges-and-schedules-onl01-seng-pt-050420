@@ -1,1 +1,1 @@
-# Write your code here.
+def badge_batch_creator
